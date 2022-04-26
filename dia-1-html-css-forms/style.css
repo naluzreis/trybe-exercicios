@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(240, 239, 239);
+  text-align: center;
+  margin: auto;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color: rgb(48, 47, 47);
+}
+
+.box {
+  border: 3px solid rgb(233, 233, 233);
+  background-color: rgb(253, 252, 252);
+  width: 80%;
+  margin: auto;
+  padding: 40px 30px;
+}
